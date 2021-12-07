@@ -34,9 +34,9 @@
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/350976460313329665" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/erenizm74" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://www.npmjs.com/~erenizm74" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=npm"></a>
+    <a href="https://discord.com/users/845035147492589639" target="_blank"><img src="https://shields.io/badge/erenizm74-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://github.com/erenizm74" target="_blank"><img src="https://shields.io/badge/erenizm74-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://www.npmjs.com/~erenizm74" target="_blank"><img src="https://shields.io/badge/erenizm74-111111.svg?&style=for-the-badge&logo=npm"></a>
     <a href="https://discord.gg/tahsineren" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
     <a href="https://eren-izm74.glitch.me" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
 </div>
