@@ -1,7 +1,7 @@
 
 **__<h1 align="center">Hi 👋, I'm eren</h1>__**
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=thearkxd&color=dc143c"/>
+    <img src="https://komarev.com/ghpvc/?username=erenizm74xd&color=dc143c"/>
 </div>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/845035147492589639)](https://discord.com/users/845035147492589639)
@@ -34,18 +34,18 @@
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/350976460313329665" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://discord.com/users/845035147492589639" target="_blank"><img src="https://shields.io/badge/erenizm74-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/erenizm74" target="_blank"><img src="https://shields.io/badge/erenizm74-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://www.npmjs.com/~theark" target="_blank"><img src="https://shields.io/badge/erenizm74-111111.svg?&style=for-the-badge&logo=npm"></a>
-    <a href="https://discord.gg/UEPcFtytcc" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
-    <a href="https://theark.tk" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
+    <a href="https://www.npmjs.com/~erenizm74" target="_blank"><img src="https://shields.io/badge/erenizm74-111111.svg?&style=for-the-badge&logo=npm"></a>
+    <a href="https://discord.gg/tahsineren" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
+    <a href="https://eren-izm74.glitch.me" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
 </div>
 
 ## 📈 Github Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=thearkxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api?username=erenizm74xd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearkxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenizm74xd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
 </div>
 
