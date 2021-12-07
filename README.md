@@ -41,11 +41,4 @@
     <a href="https://eren-izm74.glitch.me" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
 </div>
 
-## 📈 Github Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=erenizm74xd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenizm74xd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
-</div>
 
