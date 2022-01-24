@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=erenizm74xd&color=dc143c"/>
 </div>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/845035147492589639)](https://discord.com/users/845035147492589639)
+[![Discord Presence](https://lanyard.cnrad.dev/api/210820876537561088)](https://discord.com/users/210820876537561088)
 ![erenizm74's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erenizm74&show_icons=true&theme=gruvbox)
 <div align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/> 
